@@ -1,0 +1,2 @@
+- git: {local-name: morse_ros, uri: 'git@github.com:harmishhk/morse_ros.git', version: '1.1'}
+- git: {local-name: navigation_morse, uri: 'git@github.com:harmishhk/navigation_morse.git', version: '1.1'}
